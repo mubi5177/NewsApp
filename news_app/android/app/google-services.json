@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352134070424",
+    "project_id": "newsapp-27e5f",
+    "storage_bucket": "newsapp-27e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352134070424:android:d8b3d844934b56f3f510ed",
+        "android_client_info": {
+          "package_name": "com.mobotech.newso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352134070424-rv0ifm70kfludpocbe9nonumbnsj0b4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdChLzGiST6XPXSxJmswVjT05q8SkZJc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352134070424-rv0ifm70kfludpocbe9nonumbnsj0b4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

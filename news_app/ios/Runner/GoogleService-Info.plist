@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352134070424-u184rpmj6uqb7bvalc9e6p4cm42sqq1u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352134070424-u184rpmj6uqb7bvalc9e6p4cm42sqq1u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAncSCQ-TYCyUAcR1NBSsa79ELEf6jUAgs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352134070424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobotech.newso</string>
+	<key>PROJECT_ID</key>
+	<string>newsapp-27e5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapp-27e5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352134070424:ios:e2a530770ffc0b0ef510ed</string>
+</dict>
+</plist>
